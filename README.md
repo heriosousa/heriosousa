@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Hério
 
-<!--
-**heriosousa/heriosousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Scientist** and **PhD** focused on data analysis, machine learning, and research-driven problem solving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Experience
+
+*Sep 2022 – Present* **Senior Data Scientist @ [Bain & Company](https://github.com/Bain)**  
+
+---
+
+## 🎓 Education
+
+*2018 – 2022* **PhD in Computer Science @ Universidade Federal de São Paulo**  
+
+*2015 – 2017* **Master in Computer Science @ Universidade Federal de São Carlos**  
+
+*2010 – 2014* **Bachelor in Computer Science @ Universidade Federal do Piauí**  
+
+---
+
+## 🔗 Useful Links
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/heriosousa)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=er74xyMAAAAJ)
+
+---
+
+⭐️ *Feel free to check out my repositories and get in touch!*
