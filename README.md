@@ -23,7 +23,8 @@ I'm a **Data Scientist** and **PhD** focused on data analysis, machine learning,
 ## 🔗 Useful Links
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/heriosousa)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=er74xyMAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=er74xyMAAAAJ)
+[![HuggingFace](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface)](https://huggingface.co/heriosousa)
 
 ---
 
