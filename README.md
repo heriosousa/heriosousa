@@ -12,11 +12,11 @@ I'm a **Data Scientist** and **PhD** focused on data analysis, machine learning,
 
 ## 🎓 Education
 
-*2018 – 2022* **PhD in Computer Science @ Universidade Federal de São Paulo**  
+*2018 – 2022* **PhD in Computer Science, Universidade Federal de São Paulo**  
 
-*2015 – 2017* **Master in Computer Science @ Universidade Federal de São Carlos**  
+*2015 – 2017* **Master's in Computer Science, Universidade Federal de São Carlos**  
 
-*2010 – 2014* **Bachelor in Computer Science @ Universidade Federal do Piauí**  
+*2010 – 2014* **Bachelor's in Computer Science, Universidade Federal do Piauí**  
 
 ---
 
